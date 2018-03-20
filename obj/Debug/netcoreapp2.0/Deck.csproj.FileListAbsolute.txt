@@ -1,0 +1,10 @@
+/Users/odinahon/Documents/CodingDojoAssignments/C#/Deck/bin/Debug/netcoreapp2.0/Deck.deps.json
+/Users/odinahon/Documents/CodingDojoAssignments/C#/Deck/bin/Debug/netcoreapp2.0/Deck.runtimeconfig.json
+/Users/odinahon/Documents/CodingDojoAssignments/C#/Deck/bin/Debug/netcoreapp2.0/Deck.runtimeconfig.dev.json
+/Users/odinahon/Documents/CodingDojoAssignments/C#/Deck/bin/Debug/netcoreapp2.0/Deck.dll
+/Users/odinahon/Documents/CodingDojoAssignments/C#/Deck/bin/Debug/netcoreapp2.0/Deck.pdb
+/Users/odinahon/Documents/CodingDojoAssignments/C#/Deck/obj/Debug/netcoreapp2.0/Deck.csproj.CoreCompileInputs.cache
+/Users/odinahon/Documents/CodingDojoAssignments/C#/Deck/obj/Debug/netcoreapp2.0/Deck.AssemblyInfoInputs.cache
+/Users/odinahon/Documents/CodingDojoAssignments/C#/Deck/obj/Debug/netcoreapp2.0/Deck.AssemblyInfo.cs
+/Users/odinahon/Documents/CodingDojoAssignments/C#/Deck/obj/Debug/netcoreapp2.0/Deck.dll
+/Users/odinahon/Documents/CodingDojoAssignments/C#/Deck/obj/Debug/netcoreapp2.0/Deck.pdb
